@@ -1,0 +1,2 @@
+Maźnica – w pojazdach szynowych łożysko ślizgowe osiowe wraz z urządzeniem smarującym (dawniej) lub obudowa łożyska tocznego pojazdu kolejowego (obecnie).
+[wiki](https://pl.wikipedia.org/wiki/Ma%C5%BAnica)

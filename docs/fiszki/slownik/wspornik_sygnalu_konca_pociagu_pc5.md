@@ -1,0 +1,1 @@
+wspornik jest potrzebny, żeby umieścić na nim sygnał końca pociągu

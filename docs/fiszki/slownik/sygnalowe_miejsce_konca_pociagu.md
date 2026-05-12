@@ -1,0 +1,1 @@
+Sygnałowe miejsce końca pociągu to wyznaczone w regulaminie technicznym miejsce na stacji, po minięciu którego pracownik ruchu (np. nastawniczy) może zamknąć semafor (nastawić „Stój”), potwierdzając tym samym pełny wjazd lub wyjazd składu. Zwykle znajduje się co najmniej 100 metrów za semaforem, co umożliwia weryfikację sygnałów Pc5.

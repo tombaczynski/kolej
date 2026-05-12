@@ -1,0 +1,2 @@
+Ostoja – rama pojazdu szynowego (np. lokomotywy, wagonu lub wózka). Zależnie od budowy i zastosowania taboru ostoja może być metalowa lub drewniana, a pod względem zawieszenia na osi, zewnętrzna lub wewnętrzna (umocowana po zewnętrznej lub wewnętrznej stronie koła).
+[Źródło](https://pl.wikipedia.org/wiki/Ostoja_(kolejnictwo))

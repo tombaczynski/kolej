@@ -1,0 +1,3 @@
+Ukres – miejsce przy zbiegających się torach (rozjazd, skrzyżowanie torów), dokąd wolno zająć tor taborem bez uniemożliwiania przejazdu po drugim torze[1][2]. Ukres jest wyznaczony przez miejsce, gdzie spotykają się skrajnie sąsiednich torów. W uproszczeniu, jest to miejsce, dokąd można bezpiecznie zatrzymać skład, tak że jego obrys nie będzie zachodził na sąsiedni tor. ([wikipedia](https://pl.wikipedia.org/wiki/Ukres))
+
+Wskaźnik W17

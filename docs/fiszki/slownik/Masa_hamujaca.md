@@ -1,0 +1,3 @@
+Masa hamująca (ciężar hamujący) – wielkość umowna, stosowana do określenia zdolności hamowania pojazdu kolejowego/pociągu. Wielkość ta wiąże się z siłą, z jaką hamulce są w stanie zahamować pojazd/pociąg o danej masie. Wartość masy równej 1 t odpowiada wartości siły hamującej równej 1 kN. Wartość masy hamującej pojazdu wskazana jest na jego ścianach bocznych, ostoi lub tablicy przestawczej hamulca.
+
+[wiki](https://pl.wikipedia.org/wiki/Masa_hamująca)
