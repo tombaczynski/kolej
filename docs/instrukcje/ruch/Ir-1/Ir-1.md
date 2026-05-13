@@ -572,31 +572,10 @@ c.  przy torze znajduje się odnoszące się do tego toru urządzenie sygnałowe
 
 16. Całkowicie wykorzystane druki należy przechowywać zgodnie z obowiązującymi przepisami. Druki rozpoczęte w starym roku kalendarzowym, a zakończone w nowym roku kalendarzowym należy przechowywać z drukami wypełnionymi w całości w nowym roku kalendarzowym.
 
-> **§ 8 Pojazdy kolejowe**
 
-1. Pojazdy kolejowe są to pojazdy dostosowane do poruszania się na własnych kołach, po torach kolejowych, napędzane w inny sposób niż siłą ludzkich mięśni lub bez napędu.
 
-2. Pojazdy kolejowe dzielą się na tabor kolejowy i pojazdy pomocnicze.
 
-3. Tabor kolejowy dzieli się na tabor zwykły i tabor specjalny.
 
-4. Tabor zwykły to pojazdy kolejowe przystosowane do kursowania w składzie pociągu na ogólnych zasadach, przeznaczone do przewozu osób i rzeczy. Są to:
-   
-   1. wszystkie typy lokomotyw, zespoły trakcyjne i inne pojazdy silnikowe,
-   
-   2. wagony osobowe i towarowe, w tym także naczepy siodłowe na wózkach kolejowych, z których każdy traktowany jest jako odrębny wagon.
-
-5. Tabor specjalny stanowią pojazdy kolejowe przeznaczone w szczególności do prac remontowo-budowlanych lub ratunkowych, których budowa pozwala na samodzielną jazdę lub kursowanie w składzie pociągu, przy zachowaniu określonych warunków technicznych
-
-> m\. in. miejsca ustawienia w składzie pociągu i maksymalnej prędkości jazd. Dane te powinny znajdować się na ścianach bocznych takiego taboru.
-
-6. (uchylony)
-
-7. (uchylony)
-
-8. Pojazdy pomocnicze są to pojazdy kolejowe, których budowa nie pozwala na ich włączanie do składu pociągu (np. maszyny budowlane na kołach, ciągniki szynowe, drezyny i wózki robocze oraz niektóre typy pojazdów ratunkowych).
-
-9. Pojazdy szynowo-drogowe (dwudrogowe) są pojazdami pomocniczymi, które mogą poruszać się po drogach kołowych oraz torach. Maksymalna prędkość jazdy tych pojazdów wynika z ich konstrukcji, o ile nie jest ograniczona postanowieniami niniejszej instrukcji.
 > **§ 10 Wewnętrzny rozkład jazdy pociągów**
 
 1. Wewnętrzny rozkład jazdy pociągów jest planem, według którego mają się odbywać przejazdy pociągów na sieci kolejowej zarządzanej przez PKP PLK S.A. lub jej części w czasie, w którym on obowiązuje. Sposób opracowania wewnętrznego rozkładu jazdy pociągów oraz zasady numerowania pociągów określa Instrukcja o rozkładzie jazdy pociągów Ir-11.
