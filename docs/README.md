@@ -1,4 +1,4 @@
 
 # Kolej
 
-[Index](docs/index.md)
+[Index](/docs/index.md)
