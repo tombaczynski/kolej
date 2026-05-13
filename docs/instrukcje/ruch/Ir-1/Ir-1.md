@@ -597,29 +597,6 @@ c.  przy torze znajduje się odnoszące się do tego toru urządzenie sygnałowe
 8. Pojazdy pomocnicze są to pojazdy kolejowe, których budowa nie pozwala na ich włączanie do składu pociągu (np. maszyny budowlane na kołach, ciągniki szynowe, drezyny i wózki robocze oraz niektóre typy pojazdów ratunkowych).
 
 9. Pojazdy szynowo-drogowe (dwudrogowe) są pojazdami pomocniczymi, które mogą poruszać się po drogach kołowych oraz torach. Maksymalna prędkość jazdy tych pojazdów wynika z ich konstrukcji, o ile nie jest ograniczona postanowieniami niniejszej instrukcji.
-
-## § 9 Określenie i podział pociągów
-
-1. [Pociąg](/docs/fiszki/slownik/pociag.md) jest to skład wagonów lub innych [pojazdów kolejowych](/docs/fiszki/slownik/pojazd_kolejowy.md) sprzęgniętych z czynnym [pojazdem trakcyjnym](/docs/fiszki/slownik/pojazd_trakcyjny.md) albo pojazd trakcyjny - osygnalizowany i przygotowany do jazdy lub znajdujący się w drodze.
-
-2. Pociągi, którymi wykonywana jest praca przewozowa przez przewoźników kolejowych dzielimy na pociągi pasażerskie i towarowe.
-
-> PKP PLK S.A.  jest przewoźnikiem dla uruchamianych własnych przewozów technologicznych.
-
-3. Dla potrzeb wewnętrznych PKP Polskie Linie Kolejowe S.A. mogą być uruchamiane:
-   
-   1. pociągi utrzymaniowo-naprawcze (ratunkowe, inspekcyjne, diagnostyczne) -- przeznaczone do usuwania skutków wypadków kolejowych, diagnostyki, inspekcji linii,
-   
-   2. pociągi robocze -- wykonujące pracę na szlaku lub szlakach na zamkniętym torze.
-
-4. Na zasadach ustalonych dla pociągów kursują:
-   
-   1. tabor specjalny,
-   
-   2. pojazdy pomocnicze oddziaływujące na urządzenia sterowania ruchem kolejowym.
-
-5. Szczegółowego podziału pociągów, o których mowa w ust. 2 dokonuje przewoźnik kolejowy.
-
 > **§ 10 Wewnętrzny rozkład jazdy pociągów**
 
 1. Wewnętrzny rozkład jazdy pociągów jest planem, według którego mają się odbywać przejazdy pociągów na sieci kolejowej zarządzanej przez PKP PLK S.A. lub jej części w czasie, w którym on obowiązuje. Sposób opracowania wewnętrznego rozkładu jazdy pociągów oraz zasady numerowania pociągów określa Instrukcja o rozkładzie jazdy pociągów Ir-11.
