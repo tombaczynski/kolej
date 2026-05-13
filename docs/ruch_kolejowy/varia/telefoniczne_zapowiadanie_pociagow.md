@@ -1,5 +1,7 @@
 # Telefoniczne zapowiadanie pociągów
 
+[Ir-1 § 28 ust. 8](/docs/instrukcje/ruch/Ir-1/r04/Ir-1_r04p28.md)
+
 ## Telefoniczne zapowiadanie pociągów
 
 ### Stosowanie telefonicznego zapowiadania pociągów
