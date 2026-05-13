@@ -600,7 +600,7 @@ c.  przy torze znajduje się odnoszące się do tego toru urządzenie sygnałowe
 
 ## § 9 Określenie i podział pociągów
 
-1. Pociąg jest to skład wagonów lub innych [pojazdów kolejowych](/docs/fiszki/slownik/pojazd_kolejowy.md) sprzęgniętych z czynnym [pojazdem trakcyjnym](/docs/fiszki/slownik/pojazd_trakcyjny.md) albo pojazd trakcyjny - osygnalizowany i przygotowany do jazdy lub znajdujący się w drodze.
+1. [Pociąg](/docs/fiszki/slownik/pociag.md) jest to skład wagonów lub innych [pojazdów kolejowych](/docs/fiszki/slownik/pojazd_kolejowy.md) sprzęgniętych z czynnym [pojazdem trakcyjnym](/docs/fiszki/slownik/pojazd_trakcyjny.md) albo pojazd trakcyjny - osygnalizowany i przygotowany do jazdy lub znajdujący się w drodze.
 
 2. Pociągi, którymi wykonywana jest praca przewozowa przez przewoźników kolejowych dzielimy na pociągi pasażerskie i towarowe.
 
