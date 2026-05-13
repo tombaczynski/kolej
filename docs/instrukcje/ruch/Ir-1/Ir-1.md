@@ -604,7 +604,7 @@ c.  przy torze znajduje się odnoszące się do tego toru urządzenie sygnałowe
 
 2. Pociągi, którymi wykonywana jest praca przewozowa przez przewoźników kolejowych dzielimy na pociągi pasażerskie i towarowe.
 
-> PKP PLK S.A. jest przewoźnikiem dla uruchamianych własnych przewozów technologicznych.
+> PKP PLK S.A.  jest przewoźnikiem dla uruchamianych własnych przewozów technologicznych.
 
 3. Dla potrzeb wewnętrznych PKP Polskie Linie Kolejowe S.A. mogą być uruchamiane:
    
