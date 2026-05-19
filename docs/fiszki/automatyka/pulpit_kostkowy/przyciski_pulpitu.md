@@ -32,6 +32,11 @@ Mała litera "m" po wielkiej literze oznacza, że na semaforze można wyświetli
 Powtarzacz tarczy manewrowej. (Powtarzacz - układ powtarzający stan innego urządzenia albo sygnału)
 
 
+## Wbl
+
+Przycisk wzbudzenia blokady liniowej 
+
+
 ## za
 
 Czarny przycisk awaryjnego zwalniania przebiegu "a"
