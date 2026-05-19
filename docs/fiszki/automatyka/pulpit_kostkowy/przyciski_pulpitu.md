@@ -1,6 +1,10 @@
 
 # Elementu pulpitu
 
+## 11
+
+Czarny przycisk i podświetlane
+
 ## A
 
 Jedna wielka litera oznacza semafor.
@@ -39,3 +43,5 @@ Czarny przycisk awaryjnego zwalniania przebiegu "a"
 ## zIIs 401-409
 
 ## zk(m) (plus licznik)
+
+## zn12(m)tm69
