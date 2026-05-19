@@ -18,7 +18,7 @@ Mała litera "m" po wielkiej literze oznacza, że na semaforze można wyświetli
 
 ## NP2P
 
-"Niewłaściwy przyjazd". Czarny przycisk.
+"Niewłaściwy przyjazd"
 
 ## za
 
