@@ -18,8 +18,12 @@ Mała litera "m" po wielkiej literze oznacza, że na semaforze można wyświetli
 
 ## NP2P
 
-"Niewłaściwy przyjazd"
+"Niewłaściwy przyjazd". Czarny przycisk, który należy aktywować pociągnięciem przed przyciśnięciem przycisku sygnałowego semafora wjazdowego dla kierunku przeciwnego do zasadniczego dla danego toru.
 
+
+## Tm 114
+
+"Tarcza manewrowa nr 114". Biały przycisk obsługujący wyświetlanie sygnałów manewrowych na tarczy manewrowej świetlnej. Obok przycisku powtarzacz wyposażony w lampki niebieską i białą odpowiadające odpowiednio sygnałom "jazda manewrowa zabroniona" i "jazda manewrowa dozwolona" na tarczy.
 
 ## ToA
 
@@ -29,3 +33,9 @@ Powtarzacz tarczy manewrowej. (Powtarzacz - układ powtarzający stan innego urz
 ## za
 
 Czarny przycisk awaryjnego zwalniania przebiegu "a"
+
+## zIs 401
+
+## zIIs 401-409
+
+## zk(m) (plus licznik)
