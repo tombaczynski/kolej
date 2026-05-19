@@ -1,0 +1,4 @@
+
+### § 1. Wprowadzenie
+
+„Instrukcja sygnalizacji Ie-1” (zwana dalej: „Instrukcją”) zawiera postanowienia rozporządzenia Ministra Infrastruktury z dnia 18 lipca 2005 r. w sprawie ogólnych warunków prowadzenia ruchu kolejowego i sygnalizacji (Dz. U. z 2025 r. poz. 100 ze zm.) w zakresie sygnalizacji na sieci linii kolejowych zarządzanych przez PKP Polskie Linie Kolejowe S.A. Dodatkowe postanowienia i uszczegółowienia w Instrukcji zaznaczono pismem pochyłym, uzupełnienia zawarto w załącznikach Nr 1, 2, 3, 4, 5 i 6.
