@@ -14,11 +14,17 @@ Mała litera "m" po wielkiej literze oznacza, że na semaforze można wyświetli
 
 ## NO1P
 
-"Niewłaściwy odjazd 1P". Czarny przycisk. Przycisk służy do wyświetlania wskaźnika W24 na semaforze wyjazdowym. W razie użycia razem z sygnałem zastępczym wskaźnik wyświetli się na semaforze, na którym sygnał zastępczy będzie wyświetlany jako pierwszy
+"Niewłaściwy odjazd 1P". Czarny przycisk. Przycisk służy do wyświetlania wskaźnika [W 24](../../../instrukcje/automatyka/Ie-1/r03/Ie-1_r03p17.md) na semaforze wyjazdowym. W razie użycia razem z sygnałem zastępczym wskaźnik wyświetli się na semaforze, na którym sygnał zastępczy będzie wyświetlany jako pierwszy
 
 ## NP2P
 
 "Niewłaściwy przyjazd"
+
+
+## ToA
+
+Powtarzacz tarczy manewrowej. (Powtarzacz - układ powtarzający stan innego urządzenia albo sygnału)
+
 
 ## za
 
