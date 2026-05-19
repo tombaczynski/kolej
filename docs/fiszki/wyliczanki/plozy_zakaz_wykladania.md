@@ -1,5 +1,5 @@
 
-# Płozów nie wolno wykładać w następujących miejscach:
+# Płozów nie wolno wykładać w następujących miejscach
 
 1. Bezpośrednio przed i za złączami szyn - w odległości mniejszej niż 1 m od złącza;
 2. Na opornicy rozjazdu przed przylegającą do niej iglicą, gdyż może to spowodować zacięcie się płoza i uszkodzenie iglicy - w razie konieczności można płóz zakładać przed rozjazdem zwyczajnym tylko na tej opornicy, do której nie przylega iglica;
