@@ -1,0 +1,1 @@
+SUMMARY.md             # Spis treści dla GitBook / mdBook
