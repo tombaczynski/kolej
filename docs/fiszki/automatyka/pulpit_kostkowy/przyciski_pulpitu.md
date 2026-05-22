@@ -34,7 +34,7 @@ Powtarzacz tarczy manewrowej. (Powtarzacz - układ powtarzający stan innego urz
 
 ## Wbl
 
-Przycisk wzbudzenia blokady liniowej. W stanie zasadniczym blokada jest nieaktywna. Posterunek chcący wyprawiać pociągi używa przycisku "Wbl", wtedy na posterunku na drugim końcu odstępu/szlaku migającym światłem zaczyna świecić biała lampka i ew. podany zostaje sygnał dźwiękowy. 
+Przycisk wzbudzenia blokady liniowej. W stanie zasadniczym blokada jest nieaktywna. Posterunek chcący wyprawiać pociągi używa przycisku "Wbl", wtedy na posterunku na drugim końcu odstępu/szlaku migającym światłem zaczyna świecić biała lampka i ew. podany zostaje sygnał dźwiękowy.
 
 
 ## za
