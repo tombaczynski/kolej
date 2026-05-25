@@ -40,3 +40,5 @@
 ### Brak telefonicznego zapowiadania pociągów
 
 - Niewyprawienie pociągu po podaniu sygnału zezwalającego przy sprawnie działajacych urządzeniach SRK
+
+### Stosowanie TZP

@@ -1,4 +1,4 @@
-Tabor kolejowy – pojazdy kolejowe przystosowane do kursowania samodzielnie lub w składzie pociągu, przeznaczone do przewozu osób i rzeczy lub służące do prac remontowo-budowlanych i ratunkowych[1].
+Tabor kolejowy – [pojazdy kolejowe](./pojazd_kolejowy.md) przystosowane do kursowania samodzielnie lub w składzie [pociągu](./pociag.md), przeznaczone do przewozu osób i rzeczy lub służące do prac remontowo-budowlanych i ratunkowych[1].
 
 Tabor kolejowy dzieli się na tabor zwykły i tabor specjalny[2].
 

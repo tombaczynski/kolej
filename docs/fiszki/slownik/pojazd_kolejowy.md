@@ -2,6 +2,6 @@ Pojazd kolejowy – pojazd szynowy dostosowany do poruszania się na własnych k
 
 Pojazdy kolejowe dzielą się na[2]:
 
-tabor kolejowy
-pojazdy pomocnicze – pojazdy kolejowe, których budowa nie pozwala na ich włączenie do składu pociągu, a w szczególności: maszyny budowlane na kołach, ciągniki szynowe, drezyny i wózki robocze oraz niektóre typy pojazdów ratunkowych.
+[tabor kolejowy](./tabor_kolejowy.md)
+[pojazdy pomocnicze](./pojazd_pomocniczy.md) – pojazdy kolejowe, których budowa nie pozwala na ich włączenie do składu [pociągu](./pociag.md), a w szczególności: maszyny budowlane na kołach, ciągniki szynowe, drezyny i wózki robocze oraz niektóre typy pojazdów ratunkowych.
 [wiki](https://pl.wikipedia.org/wiki/Pojazd_kolejowy)

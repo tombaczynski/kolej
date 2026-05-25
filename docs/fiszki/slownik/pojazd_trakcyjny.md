@@ -1,4 +1,4 @@
-Pojazd trakcyjny – [pojazd kolejowy](./pojazd_kolejowy) z napędem własnym[1], przystosowany do ciągnięcia lub pchania wagonów, lub posiadający wydzieloną przestrzeń do przewozu osób albo ładunków[2].
+Pojazd trakcyjny – [pojazd kolejowy](./pojazd_kolejowy.md) z napędem własnym[1], przystosowany do ciągnięcia lub pchania wagonów, lub posiadający wydzieloną przestrzeń do przewozu osób albo ładunków[2].
 
 Pojazdami trakcyjnymi są[3]:
 
