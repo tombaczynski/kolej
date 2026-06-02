@@ -1,6 +1,6 @@
 # Instrukcja o ruchu pociągów Ir-1
 
-## Rozdział 1. Postanienia ogólne
+## Rozdział 1. Postanowienia ogólne
 
 ### § 3. [Posterunki ruchu](./r01/Ir-1_r01p03.md)
 
