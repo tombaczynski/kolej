@@ -2,7 +2,7 @@
 
 ## Rozdział 1. Postanowienia ogólne
 
-### § 3. [Posterunki ruchu](./r01/Ir-1_r01p03.md)  .
+### § 3. [Posterunki ruchu](./r01/Ir-1_r01p03.md)  
 
 ### § 8. [Pojazdy kolejowe](./r01/Ir-1_r02p08.md)
 
