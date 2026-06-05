@@ -8,3 +8,5 @@
 ## [Instrukcje](./instrukcje/index.md)  
 
 ## [Nauka](./nauka.md)
+
+[HTML](varia/r-142_html_try.md)
