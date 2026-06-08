@@ -1,6 +1,6 @@
 # Przykład dla nastawni wykonawczej "Ad1" stacji Adamów położonej od strony stacji Czarnowo z urządzeniami blokady stacyjnej
 
-<table border="1">
+<table border="1" style="width:100%">
   <tr>
     <th colspan="3">Przygotować wjazd</th>
     <th colspan="3">Wjazd przygotowany (tor wolny)</th>
